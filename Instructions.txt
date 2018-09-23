@@ -1,0 +1,12 @@
+Note: this program requires the use of Chromedriver, which can be installed from http://chromedriver.chromium.org/
+
+Setup:
+1) After downloading the .zip file from github, extract the contents to a folder of your choosing.
+2) Download Chromedriver (link above), and extract the file.
+3) Move Chromedriver to the CR clan manager folder
+4) Run CR-Clan-Manager
+
+Other note: When inputting your clan tag, the "#" shown before it in Clash Royale is unnecesary.
+-You can find your clan tag by opening Clash Royale, navigating to your clans page, and looking directly above the red "leave" button.
+
+Thanks for using CR Clan Manager!
