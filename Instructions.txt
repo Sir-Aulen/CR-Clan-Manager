@@ -9,4 +9,4 @@ Setup:
 Other note: When inputting your clan tag, the "#" shown before it in Clash Royale is unnecesary.
 -You can find your clan tag by opening Clash Royale, navigating to your clans page, and looking directly above the red "leave" button.
 
-Thanks for using CR Clan Manager!
+Thanks for using CR Clan Manager! Any questions/comments/bugs, message my discord server at https://discord.gg/hDFMTUg
